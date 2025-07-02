@@ -1,5 +1,10 @@
-## hello world, Efe here 👋
+## Hello world, Efe here 👋
 ![ichigo](https://github.com/user-attachments/assets/8ee5aabb-aaa4-4167-844f-27a6967e95a9)
+check out my portfolio (upcoming) to see more of what I'm up to 
+
+## Let's Connect 
+→ [LinkedIn](https://www.linkedin.com/in/efeaslanboga)  
+→ [Email](mailto:efeaslanboga@gmail.com)
 
 
 <!--
