@@ -1,6 +1,7 @@
 ## hello world, Efe here 👋
+![ichigo](https://github.com/user-attachments/assets/8ee5aabb-aaa4-4167-844f-27a6967e95a9)
 
-![cool gif](https://gifdb.com/gif/anime-hollow-ichigo-kurosaki-waving-cute-v8vj3t3su4yvbw8t.html#google_vignette)
+
 <!--
 **efeaslanb/efeaslanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
