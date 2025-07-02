@@ -7,6 +7,7 @@ check out my portfolio (upcoming) to see more of what I'm up to
 → [LinkedIn](https://www.linkedin.com/in/efeaslanboga)  
 → [Email](mailto:efeaslanboga@gmail.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efeaslanb&layout=compact&theme=tokyonight)
 
 <!--
 **efeaslanb/efeaslanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
