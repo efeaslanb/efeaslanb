@@ -9,7 +9,7 @@ check out my portfolio (upcoming) to see more of what I'm up to
 
 <div align="center">
 
-  ## 📊 Most Used Languages
+  ##   Most Used Languages
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeaslanb&layout=compact&theme=tokyonight" />
 
