@@ -13,9 +13,7 @@ Check out my portfolio (upcoming) to see more of what I'm up to
 
   ##   Most Used Languages
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeaslanb&layout=compact&theme=tokyonight" />
-
-</div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efeaslanb&layout=compact&theme=dark)
 
 
 
