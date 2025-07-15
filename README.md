@@ -9,13 +9,6 @@ Check out my portfolio (upcoming) to see more of what I'm up to
 → [LinkedIn](https://www.linkedin.com/in/efeaslanboga)  
 → [Email](mailto:efeaslanboga@gmail.com)
 
-<div align="center">
-
-  ##   Most Used Languages
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeaslanb&layout=compact&theme=tokyonight" />
-
-</div>
 
 
 
