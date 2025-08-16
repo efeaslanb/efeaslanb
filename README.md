@@ -1,6 +1,6 @@
 ## Hello world, Efe here 👋
 
-I'm an incoming Mechanical Engineering student who enjoys building hands-on projects and figuring things out as I go. I’m always trying to improve, and I like being around goal-driven people who push themselves
+I'm a Mechanical Engineering student at Toronto Metropolitan University who enjoys building hands-on projects and figuring things out as I go. I’m always trying to improve, and I like being around goal-driven people who push themselves
 
 Check out my [Portfolio](https://heavy-beam-6cc.notion.site/Efe-s-Engineering-Portfolio-24e542275a9380db93bec87ec175257a) to see more of what I'm up to
 
