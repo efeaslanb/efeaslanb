@@ -7,7 +7,7 @@ Check out my portfolio (upcoming) to see more of what I'm up to
 
 ## Let's Connect 
 → [LinkedIn](https://www.linkedin.com/in/efeaslanboga)  
-→ [Email](mailto:efeaslanboga@gmail.com)
+→ [Email](mailto:efe.aslanboga@torontomu.ca)
 
 <div align="center">
 
