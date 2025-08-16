@@ -6,9 +6,11 @@ Check out my portfolio (upcoming) to see more of what I'm up to
 
 
 ## Let's Connect 
+→ [My Portfolio!](https://heavy-beam-6cc.notion.site/Efe-s-Engineering-Portfolio-24e542275a9380db93bec87ec175257a?source=copy_link)
+
 → [LinkedIn](https://www.linkedin.com/in/efeaslanboga)  
 → [Email](mailto:efe.aslanboga@torontomu.ca)
-→ [My Portfolio!](https://heavy-beam-6cc.notion.site/Efe-s-Engineering-Portfolio-24e542275a9380db93bec87ec175257a?source=copy_link)
+
 
 
 
