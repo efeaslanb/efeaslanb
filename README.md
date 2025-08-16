@@ -17,7 +17,7 @@ Check out my [Portfolio](https://heavy-beam-6cc.notion.site/Efe-s-Engineering-Po
 
 <div align="center">
 
-  ##   Most Used Languages
+  ##   Stats
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efeaslanb&layout=compact&theme=dark)
 
