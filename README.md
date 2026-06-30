@@ -1,6 +1,6 @@
 ## Hi, I'm Efe!
 
-I'm a Mechanical Engineering student at TMU who enjoys building hands-on projects and figuring things out as I go.
+I'm a Mechanical Engineering student who enjoys building hands-on projects and figuring things out as I go.
 
 
 
